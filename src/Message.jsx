@@ -1,5 +1,5 @@
 import "./Message.css";
 
 export const Message = (props) => {
-  return <div className="Mes">{props.name}</div>;
+  return <div className="message">{props.name}</div>;
 };
