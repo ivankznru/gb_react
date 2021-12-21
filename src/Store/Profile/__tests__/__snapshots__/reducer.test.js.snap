@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test profile reducer test changeName 1`] = `
+Object {
+  "age": 27,
+  "isAuthed": false,
+  "isOnline": true,
+  "name": undefined,
+}
+`;
